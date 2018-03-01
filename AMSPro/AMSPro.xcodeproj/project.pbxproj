@@ -12,6 +12,8 @@
 		FE2EAAA92047C8DA003E04C2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE2EAAA72047C8DA003E04C2 /* Main.storyboard */; };
 		FE2EAAAB2047C8DA003E04C2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE2EAAAA2047C8DA003E04C2 /* Assets.xcassets */; };
 		FE2EAAAE2047C8DA003E04C2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE2EAAAC2047C8DA003E04C2 /* LaunchScreen.storyboard */; };
+		FE2EAAB82047CBBC003E04C2 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE2EAAB72047CBBC003E04C2 /* DetailViewController.swift */; };
+		FE2EAABA2047CD94003E04C2 /* CarsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE2EAAB92047CD94003E04C2 /* CarsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		FE2EAAAA2047C8DA003E04C2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FE2EAAAD2047C8DA003E04C2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FE2EAAAF2047C8DA003E04C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FE2EAAB72047CBBC003E04C2 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		FE2EAAB92047CD94003E04C2 /* CarsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,10 +60,12 @@
 			children = (
 				FE2EAAA32047C8D9003E04C2 /* AppDelegate.swift */,
 				FE2EAAA52047C8D9003E04C2 /* ViewController.swift */,
+				FE2EAAB72047CBBC003E04C2 /* DetailViewController.swift */,
 				FE2EAAA72047C8DA003E04C2 /* Main.storyboard */,
 				FE2EAAAA2047C8DA003E04C2 /* Assets.xcassets */,
 				FE2EAAAC2047C8DA003E04C2 /* LaunchScreen.storyboard */,
 				FE2EAAAF2047C8DA003E04C2 /* Info.plist */,
+				FE2EAAB92047CD94003E04C2 /* CarsViewController.swift */,
 			);
 			path = AMSPro;
 			sourceTree = "<group>";
@@ -136,8 +142,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FE2EAAB82047CBBC003E04C2 /* DetailViewController.swift in Sources */,
 				FE2EAAA62047C8D9003E04C2 /* ViewController.swift in Sources */,
 				FE2EAAA42047C8D9003E04C2 /* AppDelegate.swift in Sources */,
+				FE2EAABA2047CD94003E04C2 /* CarsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
