@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FE0FC7CE208C5BA6005D1660 /* CafeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE0FC7CD208C5BA6005D1660 /* CafeViewController.swift */; };
 		FE2EAAA42047C8D9003E04C2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE2EAAA32047C8D9003E04C2 /* AppDelegate.swift */; };
 		FE2EAAA62047C8D9003E04C2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE2EAAA52047C8D9003E04C2 /* ViewController.swift */; };
 		FE2EAAA92047C8DA003E04C2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE2EAAA72047C8DA003E04C2 /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FE0FC7CD208C5BA6005D1660 /* CafeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CafeViewController.swift; sourceTree = "<group>"; };
 		FE2EAAA02047C8D8003E04C2 /* AMSPro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AMSPro.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FE2EAAA32047C8D9003E04C2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FE2EAAA52047C8D9003E04C2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				FE2EAAAC2047C8DA003E04C2 /* LaunchScreen.storyboard */,
 				FE2EAAAF2047C8DA003E04C2 /* Info.plist */,
 				FE2EAAB92047CD94003E04C2 /* CarsViewController.swift */,
+				FE0FC7CD208C5BA6005D1660 /* CafeViewController.swift */,
 			);
 			path = AMSPro;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FE0FC7CE208C5BA6005D1660 /* CafeViewController.swift in Sources */,
 				FE2EAAB82047CBBC003E04C2 /* DetailViewController.swift in Sources */,
 				FE2EAAA62047C8D9003E04C2 /* ViewController.swift in Sources */,
 				FE2EAAA42047C8D9003E04C2 /* AppDelegate.swift in Sources */,
