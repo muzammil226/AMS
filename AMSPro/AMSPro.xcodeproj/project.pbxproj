@@ -63,12 +63,12 @@
 				FE2EAAA32047C8D9003E04C2 /* AppDelegate.swift */,
 				FE2EAAA52047C8D9003E04C2 /* ViewController.swift */,
 				FE2EAAB72047CBBC003E04C2 /* DetailViewController.swift */,
+				FE2EAAB92047CD94003E04C2 /* CarsViewController.swift */,
+				FE0FC7CD208C5BA6005D1660 /* CafeViewController.swift */,
 				FE2EAAA72047C8DA003E04C2 /* Main.storyboard */,
 				FE2EAAAA2047C8DA003E04C2 /* Assets.xcassets */,
 				FE2EAAAC2047C8DA003E04C2 /* LaunchScreen.storyboard */,
 				FE2EAAAF2047C8DA003E04C2 /* Info.plist */,
-				FE2EAAB92047CD94003E04C2 /* CarsViewController.swift */,
-				FE0FC7CD208C5BA6005D1660 /* CafeViewController.swift */,
 			);
 			path = AMSPro;
 			sourceTree = "<group>";
